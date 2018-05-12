@@ -1,0 +1,31 @@
+_repo: La-sorcellerie_14792
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Louandre, Charles
+    aliases:
+    - Louandre, Charles Leopold
+    - Louandre, Charles Léopold
+    birthdate: 1812
+    deathdate: 1882
+    gutenberg_agent_id: '5687'
+    url: http://www.gutenberg.org/2009/agents/5687
+description: ''
+gutenberg_bookshelf: FR Occultisme
+gutenberg_issued: '2005-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14792'
+  lccn: '91157035'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic -- History'
+- !lcc 'BF'
+title: La sorcellerie
+url: http://www.gutenberg.org/ebooks/14792
